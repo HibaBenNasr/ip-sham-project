@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "956432748704",
+    "firebase_url": "https://our-project-e8239-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "our-project-e8239",
+    "storage_bucket": "our-project-e8239.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956432748704:android:8b66a2b0b8af33eb81f9c5",
+        "android_client_info": {
+          "package_name": "com.example.sham_robot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956432748704-ocoffpfgnnghp2csfm82gvoaki07muad.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0oOT11LDUi6I8k0y1KygghKtc-itsPUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956432748704-ocoffpfgnnghp2csfm82gvoaki07muad.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
