@@ -48,7 +48,7 @@ The mobile application is part of a larger IoT system composed of the following 
 
 When a potentially dangerous situation is detected, the system can capture images and send them to the user through the mobile application.
 
-## 📱 Application Screenshots
+##  Application Screenshots
 
 ### 1. Login Interface
 
@@ -78,7 +78,7 @@ The navigation menu provides access to the application's main sections.
 
 Watch the project demonstration video:
 
-[**View the SHAM project demo**](assets/SHAM_project_demo.mp4)
+![View the SHAM project demo](assets/SHAM_project_demo.mp4)
 
 ##  Related Repository
 
