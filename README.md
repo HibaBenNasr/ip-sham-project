@@ -78,7 +78,7 @@ The navigation menu provides access to the application's main sections.
 
 Watch the project demonstration video:
 
-![View the SHAM project demo](assets/SHAM_project_demo.mp4)
+[**View the SHAM project demo**](https://github.com/user-attachments/assets/8fb26453-81c3-45d7-9573-993d0c644654)
 
 ##  Related Repository
 
