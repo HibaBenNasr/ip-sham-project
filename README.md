@@ -84,7 +84,7 @@ Watch the project demonstration video:
 
 This project was implemented using two different mobile development technologies. The repositories contain separate implementations of the mobile application.
 
-- **Java version:** [ip_sham_IOT_Project](https://github.com/HibaBenNasr/sham-fire-robot-android-java)
+- **Java version:** [sham-fire-robot-android-java](https://github.com/HibaBenNasr/sham-fire-robot-android-java)
 
 ##  Project Context
 
